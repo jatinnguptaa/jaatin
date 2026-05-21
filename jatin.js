@@ -6,6 +6,4 @@ const student = {
     age : 21
 }
 
-console.log("I am a developer");
-
-jatin bhai lessss goooo.....
+console.log("I andndnddnm a developer");

@@ -6,4 +6,4 @@ const student = {
     age : 21
 }
 
-console.log("I am a developer");
+console.log("i want to become a developer");

@@ -5,3 +5,5 @@ const student = {
     name : "Jatin",
     age : 21
 }
+
+console.log("I am a developer");
